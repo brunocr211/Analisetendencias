@@ -26,8 +26,8 @@ Este repositório apresenta um projeto desenvolvido para a análise e gestão de
 
 ### 4. Visualização de Dados
 
-- Criação de dashboards interativos no Power BI.
-- Visualização de tendências e padrões em glosas e contratos.
+- Criação de dashboards interativos no Power BI
+- Visualização de tendências e padrões em glosas e contratos
 
 ### 5. Business Intelligence
 
